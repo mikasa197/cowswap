@@ -13,6 +13,8 @@
     "react": {
       "version": "detect"
     }
+    sure
+    we can do it now
   },
   "extends": [
     "plugin:react/recommended",
